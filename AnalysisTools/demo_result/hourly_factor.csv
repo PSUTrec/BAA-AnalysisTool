@@ -1,0 +1,205 @@
+analysis_area_id	mode	analysis_area_name	vh_78	vh_11_12	ami	hourly_group
+1	bicycle	PDX-Hawthorne-Bridge	534.62	168.02	3.18	Hourly Commute
+2	bicycle	Arl-CustisTrail-Bon-Air-Park	74.14	27.93	2.65	Hourly Commute
+3	pedestrian	Arl-CustisTrail-Bon-Air-Park	32.91	22.18	1.48	Hourly Commute
+4	pedestrian	Arl-Ballston	29.74	16.00	1.86	Hourly Commute
+5	bicycle	Arl-Ballston	19.02	7.04	2.70	Hourly Commute
+6	bicycle	Arl-Military-Rd-2500-SB	4.82	2.49	1.94	Hourly Commute
+7	bicycle	Arl-Bon-Air-Park	91.74	42.48	2.16	Hourly Commute
+8	pedestrian	Arl-Bon-Air-Park	43.04	28.00	1.54	Hourly Commute
+9	bicycle	Arl-East-Falls-Church	17.54	14.46	1.21	Hourly Multipurpose
+10	pedestrian	Arl-East-Falls-Church	29.10	30.61	0.95	Hourly Multipurpose
+11	bicycle	Arl-Quincy-St-1100-SB	4.53	2.37	1.91	Hourly Commute
+12	bicycle	Arl-Fairfax-3700	11.63	5.81	2.00	Hourly Commute
+13	bicycle	Arl-Mt-Vernon-Airport-South	128.04	54.70	2.34	Hourly Commute
+14	pedestrian	Arl-Mt-Vernon-Airport-South	22.65	18.08	1.25	Hourly Multipurpose
+15	bicycle	Arl-Crystal-2200	10.92	5.22	2.09	Hourly Commute
+16	bicycle	Arl-Custis-Rosslyn	105.21	32.72	3.22	Hourly Commute
+17	pedestrian	Arl-Custis-Rosslyn	26.97	14.48	1.86	Hourly Commute
+18	bicycle	Arl-Columbia-Pike	31.59	26.77	1.18	Hourly Multipurpose
+19	pedestrian	Arl-Columbia-Pike	26.61	23.51	1.13	Hourly Multipurpose
+20	bicycle	Arl-Bluemont-Connector	12.00	5.62	2.14	Hourly Commute
+21	pedestrian	Arl-Bluemont-Connector	31.09	20.80	1.49	Hourly Commute
+22	bicycle	Arl-Crystal-City-Connector	38.92	14.56	2.67	Hourly Commute
+23	pedestrian	Arl-Crystal-City-Connector	39.23	27.91	1.41	Hourly Commute
+24	bicycle	Arl-South-Joyce-SB	2.01	1.63	1.23	Hourly Multipurpose
+25	pedestrian	Arl-South-Joyce-NB	5.02	7.49	0.67	Hourly Noon Activity
+26	bicycle	Arl-Rosslyn-Bikeometer	105.27	34.36	3.06	Hourly Commute
+27	bicycle	Arl-Key-Bridge-West	91.48	50.28	1.82	Hourly Commute
+28	pedestrian	Arl-Key-Bridge-West	145.14	118.91	1.22	Hourly Multipurpose
+29	bicycle	Arl-Theodore-Roosevelt-Island-Bridge	64.14	31.61	2.03	Hourly Commute
+30	pedestrian	Arl-Theodore-Roosevelt-Island-Bridge	58.39	39.47	1.48	Hourly Commute
+31	bicycle	SD-El-Cajon-Washington-EB	0.70	1.19	0.59	Hourly Noon Activity
+32	bicycle	SD-Del-Mar-Camino-SB	16.27	20.27	0.80	Hourly Multipurpose
+33	pedestrian	SD-Del-Mar-Camino	294.12	379.85	0.77	Hourly Multipurpose
+34	bicycle	SD-Escondido-Inland-Rail-Trail-EB-WB	7.41	5.78	1.28	Hourly Multipurpose
+35	pedestrian	SD-Escondido-Inland-Rail-Trail-EB-WB	33.10	37.01	0.89	Hourly Multipurpose
+36	bicycle	SD-Imperial-Beach-Bayshore-EB-WB	24.91	40.13	0.62	Hourly Noon Activity
+37	pedestrian	SD-Imperial-Beach-Bayshore-EB-WB	14.19	57.49	0.25	Hourly Noon Activity
+38	bicycle	SD-Imperial-Beach-Palm-EB-WB	2.87	6.69	0.43	Hourly Noon Activity
+39	bicycle	SD-La-Mesa-University-WB	1.75	1.64	1.07	Hourly Multipurpose
+40	bicycle	SD-Oceanside-Blvd-WB	1.50	1.50	1.00	Hourly Multipurpose
+41	bicycle	SD-Oceanside-Pacific-SB-NB	13.16	34.04	0.39	Hourly Noon Activity
+42	bicycle	SD-Oceanside-SLR-River-Trail-EB-WB	17.46	53.32	0.33	Hourly Noon Activity
+43	pedestrian	SD-Oceanside-SLR-River-Trail-EB-WB	3.37	11.14	0.30	Hourly Noon Activity
+44	bicycle	SD-San-Marcos-Inland-Rail-Trail-EB-WB	10.55	8.43	1.25	Hourly Multipurpose
+45	pedestrian	SD-San-Marcos-Inland-Rail-Trail-EB-WB	30.63	55.18	0.56	Hourly Noon Activity
+46	bicycle	SD-30th-St-SB-NB	2.08	2.96	0.70	Hourly Noon Activity
+47	pedestrian	SD-Broadway-EB-WB	235.08	401.64	0.59	Hourly Noon Activity
+48	bicycle	SD-Del-Mar-Heights-WB	2.23	2.57	0.87	Hourly Multipurpose
+49	bicycle	SD-Mission-Bay-SB-NB	5.82	5.31	1.09	Hourly Multipurpose
+50	bicycle	SD-Gilman-SB	25.12	17.73	1.42	Hourly Commute
+51	bicycle	SD-Kearney-Villa-SB	5.45	2.74	1.99	Hourly Commute
+52	bicycle	SD-La-Jolla-Blvd-SB-NB	4.66	6.99	0.67	Hourly Noon Activity
+53	bicycle	SD-Landis-EB-WB	2.75	2.36	1.16	Hourly Multipurpose
+54	bicycle	SD-River-Bike-Path-EB-WB	7.06	11.15	0.63	Hourly Noon Activity
+55	pedestrian	SD-River-Bike-Path-EB-WB	7.63	9.43	0.81	Hourly Multipurpose
+56	pedestrian	SD-Harbor-Dr-Bridge-SB-NB	250.05	348.19	0.72	Hourly Multipurpose
+57	bicycle	SD-Chula-Vista-Bayshore-SB-NB	18.85	23.15	0.81	Hourly Multipurpose
+58	pedestrian	SD-Chula-Vista-Bayshore-SB-NB	2.54	4.48	0.57	Hourly Noon Activity
+59	bicycle	SD-Pac-Hwy-SB	4.44	4.25	1.04	Hourly Multipurpose
+60	bicycle	SD-Rose-Canyon-SB-NB	14.75	15.22	0.97	Hourly Multipurpose
+61	bicycle	SD-Sorrento-Valley-SB-NB	13.68	11.01	1.24	Hourly Multipurpose
+62	bicycle	SD-Torrey-Pines-WB	1.56	2.19	0.71	Hourly Multipurpose
+63	bicycle	SD-Solana-Beach-Coast-Hwy-SB-NB	16.47	28.01	0.59	Hourly Noon Activity
+64	bicycle	SD-Vista-Village-Dr-WB	2.49	2.20	1.13	Hourly Multipurpose
+65	bicycle	SD-SR56-EB-WB	16.11	23.94	0.67	Hourly Noon Activity
+66	bicycle	SD-National-City-Sweetwater-EB-WB	11.18	18.14	0.62	Hourly Noon Activity
+67	pedestrian	SD-National-City-Sweetwater-EB-WB	3.91	8.35	0.47	Hourly Noon Activity
+68	bicycle	SD-Torrey-Pines-UCSD-SB-NB	5.02	7.21	0.70	Hourly Noon Activity
+69	bicycle	SD-1037-BB	2.65	3.97	0.67	Hourly Noon Activity
+70	pedestrian	SD-1037-BB	0.66	0.93	0.71	Hourly Multipurpose
+71	bicycle	SD-Coronado-Bayshore-SB-NB	21.14	70.32	0.30	Hourly Noon Activity
+72	pedestrian	SD-Coronado-Bayshore-SB-NB	31.46	39.04	0.81	Hourly Multipurpose
+73	pedestrian	SD-University-Ave-EB-WB	27.96	109.32	0.26	Hourly Noon Activity
+74	bicycle	SD-University-Ave-WB	8.59	11.64	0.74	Hourly Multipurpose
+75	bicycle	SD-Harbor-Dr-Multi-EB-WB	25.04	36.92	0.68	Hourly Noon Activity
+76	pedestrian	SD-Harbor-Dr-Multi-EB-WB	28.32	29.71	0.95	Hourly Multipurpose
+77	bicycle	Bou-Folsom-South-Arapahoe	28.86	47.94	0.60	Hourly Noon Activity
+78	bicycle	Bou-Folsom-North-Pine	35.27	43.92	0.80	Hourly Multipurpose
+79	bicycle	Bou-Folsom-South-South	30.45	43.58	0.70	Hourly Noon Activity
+80	bicycle	Bou-Baseline-West-Inca	10.78	14.87	0.72	Hourly Multipurpose
+81	bicycle	Bou-13th-North-Walnut	34.55	37.42	0.92	Hourly Multipurpose
+82	bicycle	Bou-Boulder-Creek-4000-Arapahoe	44.03	48.62	0.91	Hourly Multipurpose
+83	bicycle	Bou-Skunk-Creek-Research-Park	25.16	24.72	1.02	Hourly Multipurpose
+84	bicycle	Bou-Boulder-Creek-West-Skunk-Creek	44.87	54.51	0.82	Hourly Multipurpose
+85	bicycle	Bou-Arapahoe-Path-4000-Arapahoe	5.87	6.27	0.94	Hourly Multipurpose
+86	bicycle	Bou-Arapahoe-East-38th	6.62	8.58	0.77	Hourly Multipurpose
+87	bicycle	Bou-Centennial-East-Foothills	29.97	20.07	1.49	Hourly Commute
+88	bicycle	Bou-Foothills-North-Centennial	29.55	15.16	1.95	Hourly Commute
+89	bicycle	Bou-Broadway-North-Baseline	56.57	45.49	1.24	Hourly Multipurpose
+90	bicycle	Bou-Arapahoe-East-Foothills	10.49	8.16	1.29	Hourly Multipurpose
+91	bicycle	Bou-Foothills-North-Arapahoe	36.96	22.68	1.63	Hourly Commute
+92	bicycle	Bou-Broadway-South-Table-Mesa	35.05	27.31	1.28	Hourly Multipurpose
+93	bicycle	Bou-Pearl-Between-Foothills-Ramps	5.10	6.14	0.83	Hourly Multipurpose
+94	bicycle	Bou-Foothills-North-Pearl	25.03	14.28	1.75	Hourly Commute
+95	bicycle	Bou-Foothills-South-Pearl	45.02	29.15	1.54	Hourly Commute
+96	bicycle	Bou-Pearl-East-Foothills-Off-Ramp	4.56	4.18	1.09	Hourly Multipurpose
+97	bicycle	Bou-Boulder-Creek-West-Broadway	34.56	39.90	0.87	Hourly Multipurpose
+98	bicycle	Bou-Broadway-Path-South-Arapahoe-13th	13.32	11.90	1.12	Hourly Multipurpose
+99	bicycle	Bou-Broadway-Path-South-Boulder-Creek	12.26	12.33	0.99	Hourly Multipurpose
+100	bicycle	Bou-Boulder-Creek-East-Broadway	47.74	58.40	0.82	Hourly Multipurpose
+101	bicycle	Bou-Pearl-East-55th	6.03	5.86	1.03	Hourly Multipurpose
+102	bicycle	Bou-55-South-Pearl	7.59	7.10	1.07	Hourly Multipurpose
+103	bicycle	Arl-Clarendon-Blvd-Wilson-Blvd-2500	21.38	12.21	1.75	Hourly Commute
+104	bicycle	SD-4th-Ave-SB-5th-Ave-NB	5.40	3.96	1.36	Hourly Multipurpose
+105	bicycle	PDX-Broadway-Bridge	307.60	113.50	2.71	Hourly Commute
+106	pedestrian	PDX-Burlington-Creek	0.77	4.23	0.18	Hourly Noon Activity
+107	pedestrian	PDX-Canemah-1	0.28	0.27	1.04	Hourly Multipurpose
+108	pedestrian	PDX-Canemah-2	1.59	0.74	2.14	Hourly Commute
+109	pedestrian	PDX-Canemah-3	0.71	1.07	0.66	Hourly Noon Activity
+110	pedestrian	PDX-Chinquapin	0.05	0.37	0.14	Hourly Noon Activity
+111	pedestrian	PDX-Eagle-Landing	0.04	0.27	0.13	Hourly Noon Activity
+112	bicycle	PDX-Eastbank-Esplanade	36.64	30.51	1.20	Hourly Multipurpose
+113	pedestrian	PDX-Glendoveer-Fitness-Trail	23.77	39.24	0.61	Hourly Noon Activity
+114	pedestrian	PDX-Graham-Oaks-1	8.07	12.55	0.64	Hourly Noon Activity
+115	pedestrian	PDX-Graham-Oaks-2	6.80	11.24	0.61	Hourly Noon Activity
+116	pedestrian	PDX-Graham-Oaks-3	4.52	7.55	0.60	Hourly Noon Activity
+117	pedestrian	PDX-Graham-Oaks-4	2.27	3.73	0.61	Hourly Noon Activity
+118	pedestrian	PDX-Graham-Oaks-5	3.33	3.58	0.93	Hourly Multipurpose
+119	pedestrian	PDX-Graham-Oaks-6	3.13	3.30	0.95	Hourly Multipurpose
+121	bicycle	PDX-I-205-Multi-Use-Path-on-Yamhill-St	17.22	12.30	1.40	Hourly Multipurpose
+122	pedestrian	PDX-Jenkins-Estate-2	2.96	2.66	1.11	Hourly Multipurpose
+123	pedestrian	PDX-Lone-Fir-1	6.70	15.18	0.44	Hourly Noon Activity
+124	pedestrian	PDX-Lone-Fir-2	4.03	6.19	0.65	Hourly Noon Activity
+125	pedestrian	PDX-Marquam-at-Hwy-26	86.05	85.13	1.01	Hourly Multipurpose
+126	pedestrian	PDX-Mt-Talbert-1	2.41	7.59	0.32	Hourly Noon Activity
+127	pedestrian	PDX-Mt-Talbert-2	1.00	3.07	0.32	Hourly Noon Activity
+132	bicycle	PDX-NE-Broadway-St-E-of-N-Williams-Ave-WB	34.26	14.14	2.42	Hourly Commute
+133	bicycle	PDX-NE-Broadway-St-Weidler-St-Couplet-at-2nd-Ave	6.99	10.74	0.65	Hourly Noon Activity
+135	bicycle	PDX-NE-Cully-Blvd-at-NE-Killingsworth-St	3.07	2.33	1.31	Hourly Multipurpose
+138	pedestrian	PDX-Newell-1	0.06	0.35	0.18	Hourly Noon Activity
+144	bicycle	PDX-NW-9th-Ave-N-of-NW-Lovejoy-St-SB	85.43	24.11	3.54	Hourly Commute
+149	bicycle	PDX-Riverwalk	231.87	97.92	2.37	Hourly Commute
+150	pedestrian	PDX-Rood-Bridge	1.66	4.91	0.34	Hourly Noon Activity
+151	pedestrian	PDX-Rose-Garden-Ped-Trail	24.03	47.96	0.50	Hourly Noon Activity
+152	pedestrian	PDX-Saltzman-Rd	1.71	3.64	0.47	Hourly Noon Activity
+153	pedestrian	PDX-Scouters-Mountain-2	0.91	2.65	0.34	Hourly Noon Activity
+154	pedestrian	PDX-Scouters-Moutain-Gate	3.13	7.58	0.41	Hourly Noon Activity
+155	bicycle	PDX-SE-122nd-Ave-at-SE-Market-St	34.07	25.18	1.35	Hourly Multipurpose
+158	pedestrian	PDX-Smith-and-Bybee-Interlakes	0.80	6.21	0.13	Hourly Noon Activity
+160	bicycle	PDX-Steel-Bridge-Street-Level	8.65	5.93	1.46	Hourly Commute
+163	bicycle	PDX-SW-Moody-Ave	118.72	49.52	2.40	Hourly Commute
+165	pedestrian	PDX-Terwilliger	3.58	2.28	1.57	Hourly Commute
+166	bicycle	PDX-Tonquin-Trail	2.22	3.30	0.67	Hourly Noon Activity
+167	pedestrian	PDX-Tonquin-Trail	19.11	21.31	0.90	Hourly Multipurpose
+168	pedestrian	PDX-Upper-Madison-Trail	17.89	21.17	0.84	Hourly Multipurpose
+169	pedestrian	PDX-Wildwood-at-Burnside	5.72	21.53	0.27	Hourly Noon Activity
+170	pedestrian	PDX-Wildwood-at-MAC	11.41	21.07	0.54	Hourly Noon Activity
+171	pedestrian	PDX-Zoo-Demo-Garden	0.51	23.27	0.02	Hourly Noon Activity
+172	bicycle	SEA-26th-Ave-SW-Greenway-S-of-SW-Oregon-St	12.06	2.99	4.03	Hourly Commute
+173	bicycle	SEA-39th-Ave-NE-Greenway-south-of-NE-62nd-St	25.63	9.90	2.59	Hourly Commute
+174	bicycle	SEA-520-Trail-South-of-NE-23rd-Pl	8.93	4.39	2.03	Hourly Commute
+175	pedestrian	SEA-520-Trail-South-of-NE-23rd-Pl	1.59	6.40	0.25	Hourly Noon Activity
+176	bicycle	SEA-Broadway-btw-Pike-St-and-Pine-St	25.11	14.63	1.72	Hourly Commute
+177	bicycle	SEA-Burke-Gilman-Trail-North-of-NE-70-Ave	68.68	46.59	1.47	Hourly Commute
+178	pedestrian	SEA-Burke-Gilman-Trail-North-of-NE-70-Ave	74.92	90.11	0.83	Hourly Multipurpose
+179	bicycle	SEA-Chief-Sealth-Trail-North-of-Thistle-St	1.77	0.63	2.82	Hourly Commute
+180	pedestrian	SEA-Chief-Sealth-Trail-North-of-Thistle-St	2.45	3.03	0.81	Hourly Multipurpose
+181	bicycle	SEA-Elliot-Bay-Trail-bw-Bay-St-and-Broad-St	131.00	36.40	3.60	Hourly Commute
+182	pedestrian	SEA-Elliot-Bay-Trail-bw-Bay-St-and-Broad-St	115.71	198.96	0.58	Hourly Noon Activity
+183	bicycle	SEA-Fremont-Bridge	350.02	74.48	4.70	Hourly Commute
+184	bicycle	SEA-I-90-Trail-S-of-SE-34th-bw-108th-109th	37.02	21.37	1.73	Hourly Commute
+185	pedestrian	SEA-I-90-Trail-S-of-SE-34th-bw-108th-109th	7.53	6.97	1.08	Hourly Multipurpose
+186	bicycle	SEA-MTS-Trail-West-of-I-90-Bridge	51.05	22.07	2.31	Hourly Commute
+187	pedestrian	SEA-MTS-Trail-West-of-I-90-Bridge	10.58	9.06	1.17	Hourly Multipurpose
+188	bicycle	SEA-NW-58th-St-Greenway-E-of-22nd-Ave	14.90	17.33	0.86	Hourly Multipurpose
+189	bicycle	SEA-Sammamish-Trail-bw-90th-and-85th-E-river	34.57	47.52	0.73	Hourly Multipurpose
+190	pedestrian	SEA-Sammamish-Trail-bw-90th-and-85th-E-river	30.18	53.86	0.56	Hourly Noon Activity
+192	bicycle	SEA-UW-Transit-North-south-of-NE-Pacific-Pl	27.58	24.14	1.14	Hourly Multipurpose
+193	pedestrian	SEA-UW-Transit-North-south-of-NE-Pacific-Pl	179.19	234.69	0.76	Hourly Multipurpose
+194	bicycle	SEA-UW-Transit-South-south-of-NE-Pacific-Pl	31.98	20.79	1.54	Hourly Commute
+195	pedestrian	SEA-UW-Transit-South-south-of-NE-Pacific-Pl	389.26	393.82	0.99	Hourly Multipurpose
+196	bike-ped-combined	MVN-Berentson-Bridge	2.24	2.18	1.03	Hourly Multipurpose
+197	bike-ped-combined	MVN-Kulshan-Creek-Trail-18th-St	2.84	5.54	0.51	Hourly Noon Activity
+198	bike-ped-combined	MVN-Kulshan-Creek-Trail-by-Middle-School	0.16	4.24	0.04	Hourly Noon Activity
+199	bike-ped-combined	MVN-Padilla-Bay-Shore-Trail-North-Gate	4.31	7.95	0.54	Hourly Noon Activity
+200	bike-ped-combined	MVN-Padilla-Bay-Shore-Trail-South-Gate	3.51	6.77	0.52	Hourly Noon Activity
+201	bike-ped-combined	MVN-Port-of-Skagit-Crosswind-Drive	1.18	3.47	0.34	Hourly Noon Activity
+202	bike-ped-combined	MVN-Port-of-Skagit-Josh-Wilson-Har-Port	1.09	3.12	0.35	Hourly Noon Activity
+203	bike-ped-combined	MVN-Port-of-Skagit-Ovenell-Rd-FtM-Rd	0.26	0.81	0.32	Hourly Noon Activity
+204	bike-ped-combined	MVN-Skagit-Play-Fields-Martin-Rd	6.53	12.46	0.52	Hourly Noon Activity
+205	bike-ped-combined	MVN-Trumpeter-Trail-Off-Division	9.47	11.55	0.82	Hourly Multipurpose
+206	bike-ped-combined	PDX-Commonwealth-Lake	10.21	24.39	0.42	Hourly Noon Activity
+207	bike-ped-combined	PDX-Cooper-Mountain-Loop	9.20	19.78	0.47	Hourly Noon Activity
+208	bike-ped-combined	PDX-Fanno-Creek-at-92nd	19.81	22.12	0.90	Hourly Multipurpose
+209	bike-ped-combined	PDX-Fanno-Creek-at-Allen	7.91	11.96	0.66	Hourly Noon Activity
+210	bike-ped-combined	PDX-Fanno-Creek-at-Hall	12.94	26.99	0.48	Hourly Noon Activity
+211	bike-ped-combined	PDX-Fanno-Creek-at-Scholls	14.43	21.58	0.67	Hourly Noon Activity
+213	bike-ped-combined	PDX-Hazeldale-Park	3.50	9.59	0.37	Hourly Noon Activity
+214	bike-ped-combined	PDX-Hyland-Woods-Southwest-Corner	2.93	5.10	0.57	Hourly Noon Activity
+215	bike-ped-combined	PDX-Jenkins-Estate	2.58	2.70	0.96	Hourly Multipurpose
+216	bike-ped-combined	PDX-Rock-Creek-Regional-Trail	24.57	22.17	1.11	Hourly Multipurpose
+217	bike-ped-combined	PDX-Rock-Creek-Regional-Trail-Junction	24.26	21.96	1.10	Hourly Multipurpose
+218	bike-ped-combined	PDX-Tualatin-Hills-Nature-Center	12.35	31.83	0.39	Hourly Noon Activity
+219	bike-ped-combined	PDX-Tualatin-Hills-Nature-Park	12.86	61.76	0.21	Hourly Noon Activity
+220	bike-ped-combined	PDX-Tualatin-River-Gwy-at-Barngrover-Way	9.25	21.56	0.43	Hourly Noon Activity
+221	bike-ped-combined	PDX-Tualatin-River-Gwy-at-I-5-Underpass	3.86	15.73	0.25	Hourly Noon Activity
+222	bike-ped-combined	PDX-Tualatin-River-Gwy-at-Ki-A-Kuts-Bridge	21.55	48.77	0.44	Hourly Noon Activity
+223	bike-ped-combined	PDX-Tualatin-River-Gwy-Browns-Ferry-Pk	8.49	17.30	0.49	Hourly Noon Activity
+224	bike-ped-combined	PDX-Waterhouse-at-Estuary-Dr	8.91	16.73	0.53	Hourly Noon Activity
+225	bike-ped-combined	PDX-Waterhouse-North-at-Walker	9.36	14.28	0.66	Hourly Noon Activity
+226	bike-ped-combined	PDX-Waterhouse-South-at-Walker	10.33	13.17	0.78	Hourly Multipurpose
+227	bike-ped-combined	PDX-Westside-at-SW-Village-Ln	15.77	13.18	1.20	Hourly Multipurpose
+229	bike-ped-combined	PDX-Westside-Murrayhill	5.91	5.15	1.15	Hourly Multipurpose
+230	bike-ped-combined	PDX-Westside-Murrayhill-2	12.00	14.31	0.84	Hourly Multipurpose

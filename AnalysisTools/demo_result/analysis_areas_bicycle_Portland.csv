@@ -1,0 +1,36 @@
+analysis_area_id	analysis_area_name	mode	flow_detector_list	analysis_area_regions_id
+105	PDX-Broadway-Bridge	bicycle	[738, 334, 737, 333, 769, 448, 768, 447]	1
+145	PDX-NW-Broadway-Bridge-E-of-NW-Lovejoy-St-WB	bicycle	[1452]	1
+146	PDX-NW-Lovejoy-St-bw-NW-9th-Ave-and-NW-Broadway	bicycle	[1313, 1439]	1
+147	PDX-NW-Wardway-S-of-NW-Nicolai-St-NB	bicycle	[1153]	1
+112	PDX-Eastbank-Esplanade	bicycle	[453, 454]	1
+121	PDX-I-205-Multi-Use-Path-on-Yamhill-St	bicycle	[969]	1
+128	PDX-N-Broadway-St-at-N-Benton-Ave	bicycle	[1135, 1136]	1
+129	PDX-NE-102nd-Ave-at-NE-Glisan-St	bicycle	[1137, 1139]	1
+130	PDX-NE-22nd-Ave-N-of-NE-Sandy-Blvd-SB	bicycle	[1447]	1
+131	PDX-NE-7th-Ave-S-of-NE-Multnomah-St-NB	bicycle	[1142]	1
+132	PDX-NE-Broadway-St-E-of-N-Williams-Ave-WB	bicycle	[1143]	1
+133	PDX-NE-Broadway-St-Weidler-St-Couplet-at-2nd-Ave	bicycle	[1134, 1178]	1
+134	PDX-NE-Couch-St-E-of-NE-Grand-Ave-WB	bicycle	[1147]	1
+135	PDX-NE-Cully-Blvd-at-NE-Killingsworth-St	bicycle	[1437, 1438]	1
+136	PDX-NE-Multnomah-St-E-of-NE-Grand-Ave-WB	bicycle	[1131]	1
+137	PDX-NE-Multnomah-St-W-of-NE-16th-EB	bicycle	[1314]	1
+139	PDX-NE-Wheeler-Ave-S-of-N-Winning-Way-NB	bicycle	[1179]	1
+140	PDX-N-Ida-Ave-S-of-N-Lombard-St-NB	bicycle	[1141]	1
+141	PDX-N-Interstate-Ave-at-N-Shaver-St	bicycle	[1154, 1444]	1
+142	PDX-N-Skidmore-St-E-of-N-Interstate-Ave-WB	bicycle	[1140]	1
+143	PDX-N-Vancouver-Ave-N-of-N-Rosa-Parks-Way-SB	bicycle	[1156]	1
+144	PDX-NW-9th-Ave-N-of-NW-Lovejoy-St-SB	bicycle	[1155]	1
+149	PDX-Riverwalk	bicycle	[735, 523, 736, 525]	1
+155	PDX-SE-122nd-Ave-at-SE-Market-St	bicycle	[1436, 1451, 1132]	1
+156	PDX-SE-122nd-Ave-at-SE-Stark-St	bicycle	[1450, 1451]	1
+157	PDX-SE-Division-St-E-of-SE-87th-Ave-WB	bicycle	[1448]	1
+159	PDX-Springwater-Corridor-Trail-82nd-Ave	bicycle	[1221, 1223]	1
+160	PDX-Steel-Bridge-Street-Level	bicycle	[782, 530, 784, 534, 783, 553, 777, 633]	1
+161	PDX-SW-Barbur-Blvd-SW-30th-Ave	bicycle	[1159, 1176]	1
+162	PDX-SW-Capitol-Hwy-SW-Terwilliger-Blvd	bicycle	[1446]	1
+163	PDX-SW-Moody-Ave	bicycle	[638, 639]	1
+164	PDX-SW-River-Pkwy-E-of-SW-Harbor-Dr-WB	bicycle	[1312]	1
+166	PDX-Tonquin-Trail	bicycle	[465]	1
+1	PDX-Hawthorne-Bridge	bicycle	[461, 462, 463, 464]	1
+232	PDX-NE-Multnomah-St	bicycle	[1131, 1314]	1
